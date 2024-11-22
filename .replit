@@ -1,7 +1,11 @@
 language = "nodejs"
 run = "npm start"
 externalPort = 80
+modules = ["nodejs-16", "web", "nix", "bash"]
 
 [deployment]
 deploymentTarget = "gce"
 run = ["sh", "-c", "npm start "]
+
+[nix]
+channel = "stable-24_05"
