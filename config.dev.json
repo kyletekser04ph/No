@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100093172417993"
+    "61565022752745"
     
   ],
   "GOD": [
-    "100093172417993"
+    "61565022752745"
     
   ],
   "DEV": [
-    "100093172417993"
+    "61565022752745"
     
   ],
   "whiteListMode": {
@@ -33,11 +33,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Ai",
-  "authorName": "Jonel",
-  "authorFB": "https://www.facebook.com/profile.php?id=100093172417993",
+  "nickNameBot": "𝗞𝗬𝗟𝗘'𝗦 𝗕𝗢𝗧",
+  "authorName": "Kylepogi",
+  "authorFB": "https://www.facebook.com/kylepogiv2",
   "authorEmail": "",
-  "prefix": " ",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -45,10 +45,10 @@
     "autoRefreshThreadInfoFirstTime": true,
     "notes": "(1) type selects 'json' or 'sqlite' or 'mongodb'. If you choose mongodb, enter uri connect mongodb in the uriMongodb section, instructions to get uri connect mongodb at: https://youtu.be/z1f9urHW5xY. I recommend using 'mongodb' or 'sqlite', json is not recommended because it is not stable. (2) when you set autoSyncWhenStart to true, the bot will automatically synchronize the data in the database when starting the bot, this will make the bot start slower. (3) when you set autoRefreshThreadInfoFirstTime to true, the bot will automatically refresh the thread information when get first message from the thread since starting the bot"
   },
-  "timeZone": "Asia/Dhaka",
+  "timeZone": "Asia/Manila",
   "credentials": {
     "gmailAccount": {
-      "email": "andylabaco@gmail.com",
+      "email": "kivlynx@gmail.com",
       "clientId": "96871167660-5js0qjdlpr2mcd331kv5obpifev5j69r.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04qK_zxJkdK7RCgYIARAAGAQSNwF-L9IrZOdI4prCgpqvAoDEvn-HpuSugKxBTRNoGS37QwxfAWJUCehSKhdas26xOh-SjmdR4uw",
